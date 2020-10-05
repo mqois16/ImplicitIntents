@@ -1,0 +1,10 @@
+<resources>
+    <string name="edittext_uri">http://ugm.ac.id</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Yogyakarta</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\Contoh teks</string>
+    <string name="button_share">Share This Text</string>
+    <string name="app_name">Implicit Intent</string>
+
+</resources>
